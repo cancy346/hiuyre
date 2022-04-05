@@ -1,5 +1,5 @@
 services:
-  okvtwo:hu6u7i
+  okvtwo:cancy346/hiuyre
     build: .
     shm_size: 2.6gb
     ports:
